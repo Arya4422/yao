@@ -2,6 +2,6 @@
 #include<stdlib.h>
 int main(void)
 {
- printf("ÄãºÃÊÀ½ç\n");
+ printf("Hello  world \n");
  system("pause");
 }
